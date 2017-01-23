@@ -1,10 +1,10 @@
 ## Do you have a mystery in need of solving?
 
-You can use the [editor on GitHub](https://github.com/imnotspock/imnotspock.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Do you have an unsolved mystery in the Sydney area? We can solve it for you. No cheating spouses please. Our services are free, but due to other commitments and the number of requests we cannot respond to everyone.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Get in touch
 
-### Markdown
+Send a message with the ins and outs of your mystery through Wickr: **mysteriesrus**
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
