@@ -1,7 +1,7 @@
 ### Do you have a mystery in need of solving?
 
-Do you have an unsolved mystery in the Sydney area? We can solve it for you. No cheating spouses please. 
+Do you have an unsolved mystery in the **Sydney** area? We can solve it for you. No cheating spouses please. 
 
-For most of our services there is no fee, but due to other commitments and the number of requests we cannot respond to everyone.
+For most of our services there is no fee, but due to other commitments and the number of requests we cannot respond to everyone (sorry).
 
 Get in touch with the ins and outs of your mystery through Wickr: **mysteriesrus**
