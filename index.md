@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Do you have a mystery in need of solving?
 
 You can use the [editor on GitHub](https://github.com/imnotspock/imnotspock.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
