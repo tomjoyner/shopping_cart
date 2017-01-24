@@ -1,7 +1,7 @@
 # Site settings
-title: Mysteries-R-Us
-tag_text: Do you have a mystery in need of solving?
-description: Do you have an unsolved mystery in the Sydney area? We can solve it for you in most cases for no charge.
+title: Mystery Dog
+tag_text: Do you need a mystery solved?
+description: Do you have an unsolved mystery in the Sydney area? Mystery Dog can solve it for you in most cases for no charge.
 
 # Build settings
 markdown: kramdown
