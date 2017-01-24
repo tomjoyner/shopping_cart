@@ -1,1 +1,9 @@
-theme: jekyll-theme-minimal
+# Site settings
+title: site name here
+tag_text: tag text here
+description: site description
+
+# Build settings
+markdown: kramdown
+sass:
+  style: compressed
