@@ -1,4 +1,4 @@
-### Do you have a mystery in need of solving?
+### 
 
 Do you have an unsolved mystery in the Sydney area? We can solve it for you in most cases for no charge.
 
