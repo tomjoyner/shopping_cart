@@ -2,4 +2,4 @@ Do you have an unsolved mystery in the Sydney area? Mystery Dog can solve it for
 
 Due to other commitments and the number of requests, we cannot respond to everyone (sorry). No cases involving cheating spouses/partners please.
 
-Send us some information about your mystery by emailing [mysterydog.sydney@gmail.com](mailto:mysterydog.sydney@gmail.com).
+Send us some information about your mystery by emailing **mysterydogsydney [at] gmail [dot] com**.
