@@ -4,5 +4,6 @@ Due to other commitments and the number of requests, we cannot respond to everyo
 
 Send us some information about your mystery by emailing **mysterydogsydney [at] gmail [dot] com**.
 
-[FAQs](/path/to/faqs.html)  [Submit a mystery](/path/to/contact.html)
+<a href="faqs.html">FAQs</a>  <a href="contact.html">Submit a mystery</a>
+
 
