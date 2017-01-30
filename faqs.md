@@ -1,8 +1,8 @@
 ---
-title: Mystery Dog's FAQs
-description: write a seo meta description here
+title: Mystery Dog FAQs
+description: Mystery Dog frequently asked questions
 heading: FAQs
 ---
 
-Q. What is a mystery?
-A. Something that is difficult to explain. Eg. Where is the fish tank in Skin Deep on King Street from?
+<p><strong>Q. What kind of mysteries do you solve?</strong>
+A. Something that is difficult to explain. Eg. Where is the fish tank in Skin Deep on King Street from?</p>
