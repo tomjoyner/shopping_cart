@@ -7,3 +7,6 @@ description: Do you have an unsolved mystery in the Sydney area? Mystery Dog can
 markdown: kramdown
 sass:
   style: compressed
+
+# Google services
+google_analytics: UA-91068857-1
