@@ -11,4 +11,4 @@ A. They are free for the time being (expenses not included).</p>
 <p><strong>Q. Why are you doing this?</strong>
 A. Why not??</p>
 <p><strong>Q. How many mysteries have you already solved?</strong>
-A. Because we are a new service, only 1.</p>
+A. Because we are a new service, only one.</p>
