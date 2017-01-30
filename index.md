@@ -9,3 +9,5 @@ heading: Need a mystery solved?
 <p>Due to other commitments and the number of requests, we cannot respond to everyone (sorry). No cases involving cheating spouses/partners please.</p>
 
 <p>Send us some information about your mystery by emailing <strong>mysterydogsydney [at] gmail [dot] com</strong>.</p>
+
+<p><a href="/faqs">Read the FAQs</a>.</p>
