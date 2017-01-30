@@ -1,6 +1,8 @@
-----
-title: Need a mystery solved?
-----
+---
+title: Mystery Dog
+description: Do you have an unsolved mystery in the Sydney area? Mystery Dog can solve it for you in most cases for no charge.
+heading: Need a mystery solved?
+---
 
 Do you have an unsolved mystery in the Newtown or wider Sydney area? Mystery Dog can solve it for you in most cases for no charge.
 
