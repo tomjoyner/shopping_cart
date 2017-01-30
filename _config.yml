@@ -1,8 +1,3 @@
-# Site settings
-title: Mystery Dog
-tag_text: Need a mystery solved?
-description: Do you have an unsolved mystery in the Sydney area? Mystery Dog can solve it for you in most cases for no charge.
-
 # Build settings
 markdown: kramdown
 sass:
