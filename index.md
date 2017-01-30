@@ -10,4 +10,4 @@ heading: Need a mystery solved?
 
 <p>Send us some information about your mystery by emailing <strong>mysterydogsydney [at] gmail [dot] com</strong>.</p>
 
-<p><a href="/faqs">Read the FAQs</a>.</p>
+<p><a href="/faqs">FAQs</a></p>
