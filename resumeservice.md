@@ -9,3 +9,4 @@ heading: Applying for a job? You need a better resumé.
 <p>From barista to barrister, no matter the kind of job you want, Mystery Dog can help.</p>
 
 <p><a href="/index">Home</a></p>
+<p><a href="test.html">Test</a></p>
