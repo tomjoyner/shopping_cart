@@ -13,4 +13,5 @@ A. Why not??</p>
 <p><strong>Q. How many mysteries have you already solved?</strong>
 A. Because we are a new service, only one.</p>
 
+<p><a href="/index">Home</a></p>
 
