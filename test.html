@@ -14,13 +14,8 @@
   <link rel="shortcut icon" href="favicon.png">
   <title>Mystery Dog's Resumé Service</title>
   <link rel="stylesheet" href="css/main.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
-
-<script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" id="snipcart" data-api-key="YmVjYmYxYTAtYTEyNy00YzNmLTgwMDItZGRhMTQ0OWQyZmQ3NjM2MzY0NzEwNzYwODMzNjQ5"></script>
-
-<link href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" type="text/css" rel="stylesheet" />
-
-</head>
+  
+  </head>
 <body>
   <div class="container">
     <h1>Applying for a job? You need a better resumé.</h1>
@@ -28,17 +23,180 @@
 <p>We use Adobe InDesign to completely overhaul your resumé by reorganising how your present yourself and giving it an overall design facelift. You think that sounds impressive, but imagine the difference it could make in the eyes of a potential employer.</p>
 <p>From barista to barrister, no matter the kind of job you want, Mystery Dog can help.</p>
 
-<button
-    class="snipcart-add-item"
-    data-item-id="2"
-    data-item-name="Mystery Dog Resumé Service®"
-    data-item-price="95.00"
-    data-item-weight="1"
-    data-item-url="http://myapp.com/products/bacon"
-    data-item-description="Some fresh bacon">
-        Order the Mystery Dog Resumé Service®
-</button>
+    <div id='product-component-3b1efba0f4a'></div>
+<script type="text/javascript">
+/*<![CDATA[*/
 
+(function () {
+  var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
+  if (window.ShopifyBuy) {
+    if (window.ShopifyBuy.UI) {
+      ShopifyBuyInit();
+    } else {
+      loadScript();
+    }
+  } else {
+    loadScript();
+  }
+
+  function loadScript() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = scriptURL;
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
+    script.onload = ShopifyBuyInit;
+  }
+
+  function ShopifyBuyInit() {
+    var client = ShopifyBuy.buildClient({
+      domain: 'mystery-dog.myshopify.com',
+      apiKey: 'b6a5a340119cd10529cf0ffde296b78e',
+      appId: '6',
+    });
+
+    ShopifyBuy.UI.onReady(client).then(function (ui) {
+      ui.createComponent('product', {
+        id: [11446253766],
+        node: document.getElementById('product-component-3b1efba0f4a'),
+        moneyFormat: '%24%7B%7Bamount%7D%7D',
+        options: {
+  "product": {
+    "buttonDestination": "checkout",
+    "variantId": "all",
+    "contents": {
+      "imgWithCarousel": false,
+      "variantTitle": false,
+      "description": false,
+      "buttonWithQuantity": false,
+      "quantity": false
+    },
+    "text": {
+      "button": "BUY NOW"
+    },
+    "styles": {
+      "product": {
+        "text-align": "left",
+        "@media (min-width: 601px)": {
+          "max-width": "100%",
+          "margin-left": "0",
+          "margin-bottom": "50px"
+        }
+      },
+      "button": {
+        "background-color": "#e20004",
+        "font-size": "15px",
+        "padding-top": "15.5px",
+        "padding-bottom": "15.5px",
+        ":hover": {
+          "background-color": "#ff0007"
+        },
+        "border-radius": "5px",
+        ":focus": {
+          "background-color": "#ff0007"
+        }
+      },
+      "quantityInput": {
+        "font-size": "15px",
+        "padding-top": "15.5px",
+        "padding-bottom": "15.5px"
+      },
+      "compareAt": {
+        "font-size": "12px"
+      }
+    }
+  },
+  "cart": {
+    "contents": {
+      "button": true
+    },
+    "styles": {
+      "button": {
+        "background-color": "#e20004",
+        "font-size": "15px",
+        "padding-top": "15.5px",
+        "padding-bottom": "15.5px",
+        ":hover": {
+          "background-color": "#ff0007"
+        },
+        "border-radius": "5px",
+        ":focus": {
+          "background-color": "#ff0007"
+        }
+      },
+      "footer": {
+        "background-color": "#ffffff"
+      }
+    }
+  },
+  "modalProduct": {
+    "contents": {
+      "img": false,
+      "imgWithCarousel": true,
+      "variantTitle": false,
+      "buttonWithQuantity": true,
+      "button": false,
+      "quantity": false
+    },
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "100%",
+          "margin-left": "0px",
+          "margin-bottom": "0px"
+        }
+      },
+      "button": {
+        "background-color": "#e20004",
+        "font-size": "15px",
+        "padding-top": "15.5px",
+        "padding-bottom": "15.5px",
+        ":hover": {
+          "background-color": "#ff0007"
+        },
+        "border-radius": "5px",
+        ":focus": {
+          "background-color": "#ff0007"
+        }
+      },
+      "quantityInput": {
+        "font-size": "15px",
+        "padding-top": "15.5px",
+        "padding-bottom": "15.5px"
+      }
+    }
+  },
+  "toggle": {
+    "styles": {
+      "toggle": {
+        "background-color": "#e20004",
+        ":hover": {
+          "background-color": "#ff0007"
+        },
+        ":focus": {
+          "background-color": "#ff0007"
+        }
+      },
+      "count": {
+        "font-size": "15px"
+      }
+    }
+  },
+  "productSet": {
+    "styles": {
+      "products": {
+        "@media (min-width: 601px)": {
+          "margin-left": "-20px"
+        }
+      }
+    }
+  }
+}
+      });
+    });
+  }
+})();
+/*]]>*/
+</script>
     <p><a href="/index">Home</a></p>
 
   </div>
