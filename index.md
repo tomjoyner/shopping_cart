@@ -12,4 +12,4 @@ heading: Need a mystery solved?
 
 <p><a href="/faqs">FAQs</a></p>
 
-<p>Applying for a new job? <a href="/resumeservice">Mystery Dog can fix your shitty Microsoft Word 2000 resumé.</a></p>
+<p>Applying for a new job? <a href="/resumeservice.html">Mystery Dog can fix your shitty Microsoft Word 2000 resumé.</a></p>
