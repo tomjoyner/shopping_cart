@@ -14,4 +14,4 @@ heading: Need a mystery solved?
 <p><a href="/faqs">FAQs</a></p>
 
 <p>Applying for a new job? <a href="/resumeservice.html">Mystery Dog can fix your shitty Microsoft Word 2000 resumé.</a></p>
-<br><img src="https://cdn.shopify.com/s/files/1/2212/7751/files/mysterydoglogo_small_e6f26777-ed4b-46c0-a673-665400541e79.png?4061547665473719697" alt="Mystery Dog logo" height="23" width="200"></br>
+<br><img src="https://cdn.shopify.com/s/files/1/2212/7751/files/MysteryDog_logo_web.png?4061547665473719697" alt="Mystery Dog logo" height="23" width="200"></br>
