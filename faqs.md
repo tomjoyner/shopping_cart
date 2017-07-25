@@ -13,5 +13,9 @@ A. Why not??</p>
 <p><strong>Q. How many mysteries have you already solved?</strong>
 A. Because we are a new service, only one.</p>
 
-<p><a href="/index">Home</a></p>
+ <br>
+    <a href="/index">
+    <img src="https://cdn.shopify.com/s/files/1/2212/7751/files/MysteryDog_logo_web.png?4061547665473719697" alt="Mystery Dog logo" height="23" width="200" align=left></br>
+    </a>
+    <p>Copyright © 2017 Mystery Dog</p>
 
