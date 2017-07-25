@@ -12,6 +12,5 @@ heading: Need a mystery solved?
 <p>Send us some information about your mystery by emailing <strong>mysterydogsydney [at] gmail [dot] com</strong>.</p>
 
 <p>Don't have a mystery? No problem. <a href="/resumeservice.html">Mystery Dog can also fix your shitty Microsoft Word 2000 resumé.</a> </p>
-<br><p><a href="/faqs">FAQ</a></p></br>
-<img src="https://cdn.shopify.com/s/files/1/2212/7751/files/MysteryDog_logo_web.png?4061547665473719697" alt="Mystery Dog logo" height="23" width="200" align=left>
+<br><img src="https://cdn.shopify.com/s/files/1/2212/7751/files/MysteryDog_logo_web.png?4061547665473719697" alt="Mystery Dog logo" height="23" width="200" align=left></br>
 <p>Copyright © 2017 Mystery Dog</p>
