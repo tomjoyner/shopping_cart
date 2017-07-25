@@ -17,5 +17,5 @@ heading: Need a mystery solved?
 <br><img src="https://cdn.shopify.com/s/files/1/2212/7751/files/MysteryDog_logo_web.png?4061547665473719697" alt="Mystery Dog logo" height="23" width="200" align=left></br>
 <p>Copyright © 2017 Mystery Dog</p>
 <a href="https://www.instagram.com/mystery.dog/">
-<br><img src="https://cdn.shopify.com/s/files/1/2212/7751/files/glyph-logo_May2016.png?3410662746238600353" alt="Instagram icon" height="23" width="23" align=left> Follow on Instagram</br>
+<br><img src="https://cdn.shopify.com/s/files/1/2212/7751/files/glyph-logo_May2016.png?3410662746238600353" alt="Instagram icon" height="23" width="23" align=left></br>
 </a>
