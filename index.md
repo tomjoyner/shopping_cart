@@ -15,6 +15,9 @@ heading: Need a mystery solved?
 
 <p>Applying for a new job? <a href="/resumeservice.html">Mystery Dog can fix your shitty Microsoft Word 2000 resumé.</a></p>
 
+body, html {
+    height: 100%;
+}
 .bg { 
     background-image: url("https://cdn.shopify.com/s/files/1/2212/7751/files/japanimage.jpg?16490441265565928679");
     height: 100%; 
