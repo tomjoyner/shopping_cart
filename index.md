@@ -14,17 +14,5 @@ heading: Need a mystery solved?
 <p><a href="/faqs">FAQs</a></p>
 
 <p>Applying for a new job? <a href="/resumeservice.html">Mystery Dog can fix your shitty Microsoft Word 2000 resumé.</a></p>
-
-body, html {
-    height: 100%;
-}
-.bg { 
-    background-image: url("https://cdn.shopify.com/s/files/1/2212/7751/files/japanimage.jpg?16490441265565928679");
-    height: 100%; 
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
 <br><img src="https://cdn.shopify.com/s/files/1/2212/7751/files/MysteryDog_logo_web.png?4061547665473719697" alt="Mystery Dog logo" height="23" width="200" align=left></br>
 <p>Copyright © 2017 Mystery Dog</p>
