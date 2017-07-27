@@ -1,7 +1,7 @@
 ---
-title: Mystery Dog's Mystery Blog
-description: Details of current and previous mysteries.
-heading: Mystery Blog
+title: Mystery Dog Blog
+description: Updates on details of current and previous Mystery Dog cases.
+heading: 
 ---
 
 <b>Nothing to report</b>
