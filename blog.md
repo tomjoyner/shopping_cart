@@ -1,5 +1,5 @@
 ---
-title: Mystery Dog Blog
+title: Mystery Dog blog
 description: Updates on details of current and previous Mystery Dog cases.
 heading: 
 ---
