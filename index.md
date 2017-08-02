@@ -9,7 +9,7 @@ heading: Need a mystery solved?
 
 <p>Due to other commitments and the number of requests, we cannot respond to everyone sorry. No cases involving cheating partners please.</p>
 
-<p>Send us some information about your mystery by emailing <strong>mysterydogsydney [at] gmail [dot] com</strong>.
+<p>Send us some information about your mystery by emailing <strong>mysterydogsydney [at] gmail [dot] com</strong>. Read updates on current mysteries as well as past ones on <a href="/https://mysterydogblog.tumblr.com/">the blog</a>.</p>
 
 <p>Don't have a mystery? No problem. <a href="/resumeservice.html">Mystery Dog can also fix your shitty Microsoft Word 2000 resumé.</a> </p>
 <br><img src="https://cdn.shopify.com/s/files/1/2212/7751/files/MysteryDog_logo_web.png?4061547665473719697" alt="Mystery Dog logo" height="23" width="200" align=left></br>
